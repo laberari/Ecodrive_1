@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  modelo: MyString
+  marca: MyString
+  características: MyString
+  fabricación: MyString
+  autonomia: MyString
+  precio_arriendo: MyString
+  imagen: MyString
+  id_user: one
+  id_admin: one
+
+two:
+  modelo: MyString
+  marca: MyString
+  características: MyString
+  fabricación: MyString
+  autonomia: MyString
+  precio_arriendo: MyString
+  imagen: MyString
+  id_user: two
+  id_admin: two
